@@ -1,6 +1,6 @@
 # Olá, eu sou a Raylaine! 👋
 
-Estudante de ADS, apaixonada por análise de dados e sempre em busca de novos aprendizados! 🚀
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por análise de dados e sempre em busca de novos aprendizados! 🚀
 
 ---
 
